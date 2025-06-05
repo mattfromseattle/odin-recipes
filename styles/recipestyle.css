@@ -1,0 +1,21 @@
+#recipe-image{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    position: relative;
+    margin: 20px 25%;
+}
+
+#description, #ingredients, #instructions {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #333;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    position: relative;
+    margin: auto 25%;
+}
