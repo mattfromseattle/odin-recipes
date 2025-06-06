@@ -4,7 +4,7 @@
     border-radius: 10px;
     border: 2px solid #ccc;
     position: relative;
-    margin: 20px 25%;
+    margin: 5px 25%;
 }
 
 #description, #ingredients, #instructions {
@@ -17,5 +17,19 @@
     border: 2px solid #ccc;
     padding: 10px;
     position: relative;
-    margin: auto 25%;
+    margin: 5px 25%;
+}
+
+#description {
+    position: relative;
+    right: 150px;
+}
+
+#ingredients {
+    position: relative;
+    left: 150px;
+}
+#instructions {
+    position: relative;
+    right: 50px;
 }
